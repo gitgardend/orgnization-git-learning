@@ -1,3 +1,4 @@
-ther person
+oher person
 commit1
 commit2
+commit3
