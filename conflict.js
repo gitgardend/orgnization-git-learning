@@ -1,4 +1,4 @@
-oher person
-commit1000
+other person
+commit10
 commit2
 commit3
